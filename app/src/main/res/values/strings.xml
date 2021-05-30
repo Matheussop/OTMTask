@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tasks OTM</string>
+    <string name="workload_label">Tempo estimado: %1$.1f horas</string>
+    <string name="points_label">Pontuação: %1$.1f pontos</string>
+    <string name="empty_list_msg">Começe adicionando tasks!</string>
+    <string name="task_name_hint">Nome da Task</string>
+    <string name="workload_hint">Tempo Estimado</string>
+    <string name="points_hint">Pontuação</string>
+    <string name="add_task">Adicionar Task</string>
+    <string name="time_available_hint">Tempo disponível</string>
+    <string name="suggestion_label">Tempo sugerido:  %1$.1f horas (%2$.1f</string>
+</resources>
